@@ -3,6 +3,7 @@ me="ankit"
 a=24
 x=f"this is {me} {a} {math.cos(0)}"
 print(x)"""
+# FUN GAME--- GIVE INPUT ANYTHING FROM(WATER/GUN/SNAKE) AND COMPUTER ALSO PRINT SOMETHING RANDOM FROM(WATER/GUN/SNAKE)-----------------------
 import random
 l=("snake","water","gun")
 choice=random.choice(l)
